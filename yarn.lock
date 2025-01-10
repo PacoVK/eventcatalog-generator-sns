@@ -1737,7 +1737,7 @@ __metadata:
     "@aws-sdk/util-arn-parser": "npm:^3.693.0"
     "@changesets/cli": "npm:^2.27.11"
     "@eventcatalog/sdk": "npm:^1.4.2"
-    "@smithy/types": "npm:^3.7.2"
+    "@smithy/types": "npm:^4.0.0"
     "@types/jest": "npm:^29.5.14"
     "@types/node": "npm:^22.10.4"
     aws-sdk-client-mock: "npm:^4.1.0"
@@ -2241,6 +2241,15 @@ __metadata:
   dependencies:
     tslib: "npm:^2.6.2"
   checksum: 10c0/4bf4674c922c092f9c92b482b074163ceea199e82466ccd4414c4cd9651f67757456414f969e9997371250e112778b636115727b5af53324334300f328069293
+  languageName: node
+  linkType: hard
+
+"@smithy/types@npm:^4.0.0":
+  version: 4.1.0
+  resolution: "@smithy/types@npm:4.1.0"
+  dependencies:
+    tslib: "npm:^2.6.2"
+  checksum: 10c0/d8817145ea043c5b29783df747ed47c3a1c584fd9d02bbdb609d38b7cb4dded1197ac214ae112744c86abe0537a314dae0edbc0e752bb639ef2d9fb84c67a9d9
   languageName: node
   linkType: hard
 
