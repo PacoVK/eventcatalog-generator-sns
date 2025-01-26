@@ -1281,15 +1281,15 @@ __metadata:
   linkType: hard
 
 "@eventcatalog/sdk@npm:^1.4.2":
-  version: 1.4.2
-  resolution: "@eventcatalog/sdk@npm:1.4.2"
+  version: 1.4.4
+  resolution: "@eventcatalog/sdk@npm:1.4.4"
   dependencies:
     "@changesets/cli": "npm:^2.27.7"
     fs-extra: "npm:^11.2.0"
     glob: "npm:^11.0.0"
     gray-matter: "npm:^4.0.3"
     semver: "npm:7.6.3"
-  checksum: 10c0/147ee50fe0168fe29018e3c4cf7176c794bdb80c9b14f244fb5f46e5d49c0ba83a1a967e4267e8b23d7c3ed44418c65deebd3a04253c44df19b3b9eabac0e542
+  checksum: 10c0/5e5c7c0e5422f6c10c77bb7e3979fb24bec1934bbbbfb3feeeb354254c9b6d0d33e0c409ac1e4be3c495c4a120da947e33143eaa8b96708d1752fb19a3422200
   languageName: node
   linkType: hard
 
