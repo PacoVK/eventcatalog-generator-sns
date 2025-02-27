@@ -1281,8 +1281,8 @@ __metadata:
   linkType: hard
 
 "@eventcatalog/sdk@npm:^1.4.2":
-  version: 1.4.8
-  resolution: "@eventcatalog/sdk@npm:1.4.8"
+  version: 1.4.9
+  resolution: "@eventcatalog/sdk@npm:1.4.9"
   dependencies:
     "@changesets/cli": "npm:^2.27.7"
     fs-extra: "npm:^11.2.0"
@@ -1290,7 +1290,7 @@ __metadata:
     gray-matter: "npm:^4.0.3"
     proper-lockfile: "npm:^4.1.2"
     semver: "npm:7.6.3"
-  checksum: 10c0/4f4c79575e7622da70f387e719d9821dd196b7907809e65dccf167d69632336e75de4fdf5c687623a717965d335f84ee4ae21f992c9638614e181b12edaa2a45
+  checksum: 10c0/e9b1f1ef788e016b703720eb95db0714bed943329a077c50fad99fab8b063f5f6d9f82e736763ea687478680821c1aaac7668df8a49e919b5f2e21c6b289d935
   languageName: node
   linkType: hard
 
