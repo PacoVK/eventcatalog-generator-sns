@@ -1506,9 +1506,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eventcatalog/sdk@npm:^1.4.2":
-  version: 1.4.9
-  resolution: "@eventcatalog/sdk@npm:1.4.9"
+"@eventcatalog/sdk@npm:^2.0.0":
+  version: 2.9.2
+  resolution: "@eventcatalog/sdk@npm:2.9.2"
   dependencies:
     "@changesets/cli": "npm:^2.27.7"
     fs-extra: "npm:^11.2.0"
@@ -1516,7 +1516,8 @@ __metadata:
     gray-matter: "npm:^4.0.3"
     proper-lockfile: "npm:^4.1.2"
     semver: "npm:7.6.3"
-  checksum: 10c0/e9b1f1ef788e016b703720eb95db0714bed943329a077c50fad99fab8b063f5f6d9f82e736763ea687478680821c1aaac7668df8a49e919b5f2e21c6b289d935
+    slugify: "npm:^1.6.6"
+  checksum: 10c0/cbbbd934254cf94eaaa73b672171637cb5141e652d12a802da3c71938b9f323433ad1ae8e962a0b355d61c9b4706fc429fd5ba9e478bf43f2e5aad8c337a5880
   languageName: node
   linkType: hard
 
@@ -2036,7 +2037,7 @@ __metadata:
     "@aws-sdk/client-sns": "npm:^3.726.0"
     "@aws-sdk/util-arn-parser": "npm:^3.723.0"
     "@changesets/cli": "npm:^2.27.11"
-    "@eventcatalog/sdk": "npm:^1.4.2"
+    "@eventcatalog/sdk": "npm:^2.0.0"
     "@smithy/types": "npm:^4.1.0"
     "@types/jest": "npm:^30.0.0"
     "@types/node": "npm:^22.10.5"
@@ -6099,6 +6100,13 @@ __metadata:
   version: 3.0.0
   resolution: "slash@npm:3.0.0"
   checksum: 10c0/e18488c6a42bdfd4ac5be85b2ced3ccd0224773baae6ad42cfbb9ec74fc07f9fa8396bd35ee638084ead7a2a0818eb5e7151111544d4731ce843019dab4be47b
+  languageName: node
+  linkType: hard
+
+"slugify@npm:^1.6.6":
+  version: 1.6.6
+  resolution: "slugify@npm:1.6.6"
+  checksum: 10c0/e7e63f08f389a371d6228bc19d64ec84360bf0a538333446cc49dbbf3971751a6d180d2f31551188dd007a65ca771e69f574e0283290a7825a818e90b75ef44d
   languageName: node
   linkType: hard
 
