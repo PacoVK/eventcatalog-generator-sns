@@ -2571,11 +2571,11 @@ __metadata:
   linkType: hard
 
 "@smithy/types@npm:^4.1.0, @smithy/types@npm:^4.9.0":
-  version: 4.10.0
-  resolution: "@smithy/types@npm:4.10.0"
+  version: 4.11.0
+  resolution: "@smithy/types@npm:4.11.0"
   dependencies:
     tslib: "npm:^2.6.2"
-  checksum: 10c0/e61c9dd475f1a035eeb90edb07c911a3f62872bc78ae9c5aa43ccd096c44d5a6b21f2351f165e1d488dcf7f4451ed855cee9749202713f1cc9a8f8da74bc601a
+  checksum: 10c0/8be4af86df4a78fe43afe7dc3f875bf8ec6ce7c04f7bb167152bf3c7ab2eef26db38ed7ae365c2f283e8796e40372b01b4c857b8db43da393002c5638ef3f249
   languageName: node
   linkType: hard
 
