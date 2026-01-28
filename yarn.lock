@@ -465,11 +465,11 @@ __metadata:
   linkType: hard
 
 "@aws-sdk/util-arn-parser@npm:^3.723.0":
-  version: 3.972.1
-  resolution: "@aws-sdk/util-arn-parser@npm:3.972.1"
+  version: 3.972.2
+  resolution: "@aws-sdk/util-arn-parser@npm:3.972.2"
   dependencies:
     tslib: "npm:^2.6.2"
-  checksum: 10c0/802f1b59b9782c8be43483b9f49de55cdefcb6abf73cc98738944793e238700de39f5c7373c3ab45ddc9741b7f36a85edadf45ae676d98e2e310bb701f7b6ff0
+  checksum: 10c0/94aec6e0217da6add9d2334e8ec1c0c23955d279478e0161d00f66fd3527baf8a483e6fc41ecc2fb44e0b4116b52e85847a525ee7bdf43ff07d206f1e4ef03c9
   languageName: node
   linkType: hard
 
