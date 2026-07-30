@@ -23,7 +23,7 @@
   "dependencies": {
     "@aws-sdk/client-sns": "^3.726.0",
     "@aws-sdk/util-arn-parser": "^3.723.0",
-    "@eventcatalog/sdk": "^1.4.2"
+    "@eventcatalog/sdk": "^2.0.0"
   },
   "devDependencies": {
     "@changesets/cli": "^2.27.11",
